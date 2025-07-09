@@ -1,5 +1,5 @@
 # Water-4.0
-# Water4.aasx – AAS Models of the Urban Water System
+# Water4.aasx – AAS Models of the Integrated Urban Water System
 
 This repository contains the `Water4.aasx` file, a package of Asset Administration Shell (AAS) models developed to digitally represent the infrastructures of the **urban water system**, in line with the **Industry 4.0** paradigm and the **RAMI 4.0** reference architecture.
 
